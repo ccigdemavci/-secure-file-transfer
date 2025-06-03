@@ -72,22 +72,22 @@ guvenli_dosya_transferi/
 ├── key_generator.py
 │
 ├── crypto/
-│ ├── encrypt.py
-│ └── decrypt.py
+│   ├── encrypt.py
+│   └── decrypt.py
 │
 ├── utils/
-│ └── token_utils.py
+│   └── token_utils.py
 │
 ├── network/
-│ ├── packet_builder.py
-│ ├── ip.header_operation.py
-│ ├── ip.fegmentatin.py
-│ ├── packet_injector.py
-│ ├── analyzer.py
-│ └── network_simulator.py
+│   ├── packet_builder.py
+│   ├── ip.header_operation.py
+│   ├── ip.fegmentatin.py
+│   ├── packet_injector.py
+│   ├── analyzer.py
+│   └── network_simulator.py
 │
 └── test_files/
-└── ornek.txt
+    └── ornek.txt
 
 
 
