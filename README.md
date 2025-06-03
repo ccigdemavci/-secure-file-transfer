@@ -84,8 +84,6 @@ guvenli_dosya_transferi/
 │   └── ornek.txt
 └── README.md
 
-## 🚀 Kurulum ve Kullanım  
-
 
 ## 🚀 Projeyi Çalıştırmak  
 
