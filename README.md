@@ -70,11 +70,14 @@ guvenli_dosya_transferi/
 ├── sender.py
 ├── receiver.py
 ├── key_generator.py
+│
 ├── crypto/
 │ ├── encrypt.py
 │ └── decrypt.py
+│
 ├── utils/
 │ └── token_utils.py
+│
 ├── network/
 │ ├── packet_builder.py
 │ ├── ip.header_operation.py
@@ -82,6 +85,7 @@ guvenli_dosya_transferi/
 │ ├── packet_injector.py
 │ ├── analyzer.py
 │ └── network_simulator.py
+│
 └── test_files/
 └── ornek.txt
 
