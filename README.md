@@ -66,22 +66,24 @@ Bu proje, AES ve RSA şifreleme algoritmalarını kullanarak güvenli dosya tran
 
 ## 📂 Proje Yapısı  
 guvenli_dosya_transferi/
+│
 ├── sender.py
 ├── receiver.py
-├── crypto/
-│   ├── encrypt.py
-│   └── decrypt.py
 ├── key_generator.py
-├── token_utils.py
-├── analyzer.py
-├── packet_builder.py
-├── ip.fagmentation.py
-├── ip.header_operation.py
-├── network_simulator.py
-├── packet_injector.py
-├── test_files/
-│   └── ornek.txt
-└── README.md
+├── crypto/
+│ ├── encrypt.py
+│ └── decrypt.py
+├── utils/
+│ └── token_utils.py
+├── network/
+│ ├── packet_builder.py
+│ ├── ip.header_operation.py
+│ ├── ip.fegmentatin.py
+│ ├── packet_injector.py
+│ ├── analyzer.py
+│ └── network_simulator.py
+└── test_files/
+└── ornek.txt
 
 
 
