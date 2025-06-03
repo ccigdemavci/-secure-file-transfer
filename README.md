@@ -66,7 +66,6 @@ Bu proje, AES ve RSA şifreleme algoritmalarını kullanarak güvenli dosya tran
 
 ## 📂 Proje Yapısı  
 guvenli_dosya_transferi/
-│
 ├── sender.py
 ├── receiver.py
 ├── crypto/
@@ -83,6 +82,7 @@ guvenli_dosya_transferi/
 ├── test_files/
 │   └── ornek.txt
 └── README.md
+
 
 
 ## 🚀 Projeyi Çalıştırmak  
