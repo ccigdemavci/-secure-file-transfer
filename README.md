@@ -112,3 +112,7 @@ python receiver.py
 5️⃣ iPerf3 sunucu başlatın (farklı terminalde):
 
 iperf3 -s
+
+
+linkedin:https://www.linkedin.com/in/cigdem-avci/
+youtube:https://www.youtube.com/watch?v=UZx94DBmmRI
